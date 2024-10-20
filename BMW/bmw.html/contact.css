@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+div{
+    width: min-content;
+    height: auto;
+    padding-left: 250px;
+    
+}
